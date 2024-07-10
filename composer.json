@@ -1,5 +1,5 @@
 {
-    "name": "KelvinEdgeTech/payment",
+    "name": "kelvin-edgetech/payment",
     "description": "A simple payment processing module",
     "type": "library",
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "KelvinEdgeTech\\Payment\\": "src/"
+            "KelvinEdgetech\\Payment\\": "src/"
         }
     },
     "require-dev": {

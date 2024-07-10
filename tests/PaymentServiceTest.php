@@ -1,8 +1,8 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use KelvinEdgeTech\Payment\PaymentService;
-use KelvinEdgeTech\Payment\PaymentGateway;
+use KelvinEdgetech\Payment\PaymentService;
+use KelvinEdgetech\Payment\PaymentGateway;
 
 class PaymentServiceTest extends TestCase
 {

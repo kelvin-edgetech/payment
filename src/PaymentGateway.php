@@ -1,6 +1,6 @@
 <?php
 
-namespace KelvinEdgeTech\Payment;
+namespace KelvinEdgetech\Payment;
 
 class PaymentGateway
 {
