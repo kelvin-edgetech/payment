@@ -1,5 +1,5 @@
 {
-    "name": "yourusername/payment",
+    "name": "KelvinEdgeTech/payment",
     "description": "A simple payment processing module",
     "type": "library",
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YourNamespace\\Payment\\": "src/"
+            "KelvinEdgeTech\\Payment\\": "src/"
         }
     },
     "require-dev": {
