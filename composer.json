@@ -1,7 +1,19 @@
 {
     "name": "kelvin-edgetech/payment",
-    "description": "A simple payment processing module",
+    "description": "A testing purpose simple library",
     "type": "library",
+    "homepage": "https://github.com/kelvin-edgetech/payment",
+    "authors": [
+        {
+            "name": "Kelvin Chong",
+            "email": "kelvin.edgetech@gmail.com"
+        }
+    ],
+    "keywords": [
+        "payment",
+        "laravel",
+        "laravel-package"
+    ],
     "require": {
         "php": "^7.2|^8.0"
     },
